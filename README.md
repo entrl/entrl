@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on games for fun<br>👯 I’m looking to collaborate on anything web-based<br>🌱 I’m currently learning C#<br>⚡ Fun fact I also make music
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martin-kataroski/) 
 
